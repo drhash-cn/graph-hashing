@@ -5,7 +5,7 @@ If you use our algorithm and data sets in your research, please cite the followi
 
 Tip: if you have the issue of segmenation default when compilation, please set the macro define to the smaller values, that is,
 
-&emsp;&emsp;#define PPT_SIZE 1000000000
+&emsp;&emsp;#define PPT_SIZE 1000000000  
 &emsp;&emsp;#define MAX_NODE_NUM 1000000000  
 &emsp;&emsp;#define MAX_FEATURE_NUM 1000000    
 
