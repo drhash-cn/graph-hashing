@@ -1,0 +1,18 @@
+The folder contains the NetHash algorithm from IJCAI 2018, a large data set and primes used for hashing functions.
+The algorithm embeds each node into the $l_1$ (hamming) space. 
+
+If you use our algorithm and data sets in your research, please cite the following paper as reference in your publicaions:
+
+Tip: if you have the issue of segmenation default when compilation, please set the macro define to the smaller values, that is,
+
+&emsp;&emsp;#define PPT_SIZE 1000000000
+&emsp;&emsp;#define MAX_NODE_NUM 1000000000  
+&emsp;&emsp;#define MAX_FEATURE_NUM 1000000    
+
+@inproceedings{wu2018efficient,  
+&emsp;&emsp;title={{E}fficient {A}ttributed {N}etwork {E}mbedding via {R}ecursive {R}andomized {H}ashing},  
+&emsp;&emsp;author={Wei Wu and Bin Li and Ling Chen and Chengqi Zhang},  
+&emsp;&emsp;booktitle={IJCAI-18},           
+&emsp;&emsp;pages={2861--2867},  
+&emsp;&emsp;year={2018}
+}
