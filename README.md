@@ -1,1 +1,1 @@
-# graph_embedding
+# graph_hashing
