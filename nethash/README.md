@@ -14,5 +14,5 @@ Tip: if you have the issue of segmenation default when compilation, please set t
 &emsp;&emsp;author={Wei Wu and Bin Li and Ling Chen and Chengqi Zhang},  
 &emsp;&emsp;booktitle={IJCAI-18},           
 &emsp;&emsp;pages={2861--2867},  
-&emsp;&emsp;year={2018}
+&emsp;&emsp;year={2018}  
 }
