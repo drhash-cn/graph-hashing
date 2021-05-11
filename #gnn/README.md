@@ -4,7 +4,7 @@ The steps of running the repository in Linux:
 
 Preparation work
 
-    1. download and uncompress the package in the directory './Hash-GNN'. 
+    1. download and uncompress the package in the directory './#gnn'. 
 
     2. uncompress the dblp11 dataset
         'cd data/dblp11'
@@ -16,8 +16,8 @@ Preparation work
 
 Generation of node representation
 
-    1. in the directory of '#GNN'
-        'cd #GNN/'
+    1. in the directory of '#gnn'
+        'cd #gnn/'
 
     2. compile the source code
         'python compile.py'
