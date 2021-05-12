@@ -1,7 +1,7 @@
 # graph_hashing
 Graph Representation and Network Embedding with Locality-Sensitivity Hashing Algorithms
 
-Here, we provide two kinds of the graph hashing algorithms:
+Here, we provide two kinds of the graph hashing algorithms.
 
 - Graph kernels for graph classification
     
