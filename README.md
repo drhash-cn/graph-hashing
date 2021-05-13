@@ -11,8 +11,8 @@ A toolbox of randomized hashing algorithms for fast Graph Representation and Net
     
     We provide the following algorithms:
     
-    - [Nested Subtree Hashing (NSH)](https://github.com/drhash-cn/graph-hashing/tree/main/nested-subtree-hash-kernels)
-    - [K-Ary Tree Hashing (KATH)](https://github.com/drhash-cn/graph-hashing/tree/main/kath)
+    - [Nested Subtree Hashing (NSH)](https://github.com/drhash-cn/graph-hashing/tree/main/nested-subtree-hash-kernels). Bin Li, Xingquan Zhu, Lianhua Chi, Chengqi Zhang. (2012). Nested Subtree Hash Kernels for Large-scale Graph Classification over Streams. Proceedings of the 12th International Conference on Data Mining. 399-408.
+    - [K-Ary Tree Hashing (KATH)](https://github.com/drhash-cn/graph-hashing/tree/main/kath). Wei Wu, Bin Li, Ling Chen, Xingquan Zhu, Chengqi Zhang. (2018). K-Ary Tree Hashing for Fast Graph Classification. IEEE Transactions on Knowledge and Data Engineering. 30(5):936-949.
 
 - Network embedding for node classification, link prediction and node retrieval, etc.
 
@@ -24,6 +24,6 @@ A toolbox of randomized hashing algorithms for fast Graph Representation and Net
 
     We provide the following algorithms:
     
-    - [NetHash](https://github.com/drhash-cn/graph-hashing/tree/main/nethash)
-    - [#GNN](https://github.com/drhash-cn/graph-hashing/tree/main/hash-gnn)
-    - [#GNN+](https://github.com/drhash-cn/graph-hashing/tree/main/hash-gnn-plus)
+    - [NetHash](https://github.com/drhash-cn/graph-hashing/tree/main/nethash). Wei Wu, Bin Li, Ling Chen, Chengqi Zhang. (2018). Efficient Attributed Network Embedding via Recursive Randomized Hashing. Proceedings of the 27th International Joint Conference on Artificial Intelligence. 2861-2867.
+    - [#GNN](https://github.com/drhash-cn/graph-hashing/tree/main/hash-gnn). Wei Wu, Bin Li, Chuan Luo and Wolfgang Nejdl. (2021). Hashing-Accelerated Graph Neural Networks for Link Prediction. Proceedings of the 30th Web Conference.
+    - [#GNN+](https://github.com/drhash-cn/graph-hashing/tree/main/hash-gnn-plus). 
