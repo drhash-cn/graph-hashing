@@ -1,5 +1,5 @@
 The datasets and source code of #GNN+ are for the paper, 
-    #GNN+: Scalable Attributed Network Hashing, 
+    Fast Message Passing Networks via Randomized Hashing, 
     an extended version of Hashing-Accelerated Graph Neural Networks for Link Prediction in WWW 2021.
 
 The steps of running the repository in Linux:
