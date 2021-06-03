@@ -7,3 +7,6 @@
 *.7 linguist-language=text
 *.8 linguist-language=text
 *.9 linguist-language=text
+*.mat linguist-language=matlab
+*.py linguist-language=python
+*.cpp linguist-language=cpp
