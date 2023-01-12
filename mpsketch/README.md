@@ -1,4 +1,4 @@
-The datasets and source code of MPSketch are for MPSketch: Fast Message Passing Networks via Randomized Hashing in KDD2022.
+The datasets and source code of MPSketch are for MPSketch: Fast Message Passing Networks via Randomized Hashing in IEEE Transactions on Cybernetics.
 
 The steps of running the experiments in Linux:
 
