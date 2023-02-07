@@ -26,3 +26,4 @@ A toolbox of randomized hashing algorithms for fast Graph Representation and Net
     
     - [NetHash](https://github.com/drhash-cn/graph-hashing/tree/main/nethash). Wei Wu, Bin Li, Ling Chen, Chengqi Zhang. (2018). Efficient Attributed Network Embedding via Recursive Randomized Hashing. Proceedings of the 27th International Joint Conference on Artificial Intelligence. 2861-2867.
     - [#GNN](https://github.com/drhash-cn/graph-hashing/tree/main/hash-gnn). Wei Wu, Bin Li, Chuan Luo and Wolfgang Nejdl. (2021). Hashing-Accelerated Graph Neural Networks for Link Prediction. Proceedings of the 30th Web Conference. 2910-2920.
+    - [MPSketch](https://github.com/drhash-cn/graph-hashing/tree/main/mpsketch). Wei Wu, Bin Li, Chuan Luo, Wolfgang Nejdl and Xuan Tan. (2023). MPSketch: Message Passing Networks via Randomized Hashing for Efficient Attributed Network Embedding. accpted by IEEE Transactions on Cybernetics.
