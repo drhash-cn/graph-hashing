@@ -1,4 +1,4 @@
-The datasets and source code of SCHash are for SCHash: Speedy Simplicial Complex Neural Networks via Randomized Hashing in SIGIR 2023.
+The datasets and source code of SCHash, implemented by Xuan Tan, are for SCHash: Speedy Simplicial Complex Neural Networks via Randomized Hashing in SIGIR 2023.
 
 # SCHash
 
