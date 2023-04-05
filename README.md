@@ -13,6 +13,7 @@ A toolbox of randomized hashing algorithms for fast Graph Representation and Net
     
     - [Nested Subtree Hashing (NSH)](https://github.com/drhash-cn/graph-hashing/tree/main/nested-subtree-hash-kernels). Bin Li, Xingquan Zhu, Lianhua Chi, Chengqi Zhang. (2012). Nested Subtree Hash Kernels for Large-scale Graph Classification over Streams. Proceedings of the 12th International Conference on Data Mining. 399-408.
     - [K-Ary Tree Hashing (KATH)](https://github.com/drhash-cn/graph-hashing/tree/main/kath). Wei Wu, Bin Li, Ling Chen, Xingquan Zhu, Chengqi Zhang. (2018). K-Ary Tree Hashing for Fast Graph Classification. IEEE Transactions on Knowledge and Data Engineering. 30(5):936-949.
+    - [SCHash](https://github.com/drhash-cn/graph-hashing/tree/main/schash). Xuan Tan, Wei Wu*, Chuan Luo. (2023). SCHash: Speedy Simplicial Complex Neural Networks via Randomized Hashing. to appear in SIGIR 2023.
 
 - Network embedding for node classification, link prediction and node retrieval, etc.
 
