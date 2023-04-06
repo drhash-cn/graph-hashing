@@ -13,10 +13,10 @@ for ds_name in dataset:
     datasets = TUDataset(root=f'/tmp/DATA', name=f'{ds_name}')
     M=25
     if ds_name=='PROTEINS':
-        T=2
+        T=3
         M=20
     elif ds_name=='AIDS':
-        T=3
+        T=4
     else:
         T=1
     if ds_name == 'PROTEINS':
